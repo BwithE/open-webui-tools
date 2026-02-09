@@ -16,6 +16,10 @@ RUN apt-get update && apt-get install -y \
     aircrack-ng \
     dnsutils \
     procps \
+    tshark \
+    ssh \
+    ftp \
+    telnet \
     sudo \
     ca-certificates \
  && rm -rf /var/lib/apt/lists/*
