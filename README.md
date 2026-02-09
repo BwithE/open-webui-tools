@@ -29,3 +29,15 @@ docker run -d \
   -v ~/ai-workspace:/workspace \
   open-webui-commands
 ```
+
+## Start Up
+1. Create account:password
+2. Click Workspaces
+3. Click Tools
+4. Create new tool / Import new tool
+5. Paste or Upload the `bash_executer.py` script
+6. Click Models
+7. Under tools, Click `bash_executer.py`
+8. Click `New Chat`
+9. Select a model
+10. Execute commands
