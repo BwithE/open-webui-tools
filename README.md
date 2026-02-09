@@ -31,7 +31,7 @@ docker run -d \
 ```
 
 ## Start Up
-1. Create account:password
+1. Create `account:password`
 2. Click Workspaces
 3. Click Tools
 4. Create new tool / Import new tool
